@@ -1,0 +1,26 @@
+{
+  "name": "mongo-url",
+  "version": "0.0.1",
+  "description": "mongo url generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-mongo-url.git"
+  },
+  "keywords": [
+    "mongodb",
+    "url"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-mongo-url/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-mongo-url",
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}
